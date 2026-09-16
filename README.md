@@ -33,12 +33,10 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 ---
 ## 🛠️ Tech Stack
 
-<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
+<table width="100%">
 <tr>
 
-<!-- LANGUAGES -->
-
-<td width="25%" height="240" align="center" valign="middle">
+<td width="33.33%" height="220" align="center" valign="middle">
 
 ### Languages
 
@@ -50,9 +48,7 @@ Python · Go · C# · R
 
 </td>
 
-<!-- BACKEND -->
-
-<td width="25%" height="240" align="center" valign="middle">
+<td width="33.33%" height="220" align="center" valign="middle">
 
 ### Backend & Web
 
@@ -65,9 +61,7 @@ Go · Chi · Gin · ASP.NET Core
 
 </td>
 
-<!-- DATA SCIENCE -->
-
-<td width="50%" height="120" align="center" valign="middle">
+<td width="33.33%" height="220" align="center" valign="middle">
 
 ### Data Science & AI/ML
 
@@ -75,8 +69,8 @@ Go · Chi · Gin · ASP.NET Core
 
 <br><br>
 
-NumPy · pandas · scikit-learn · PyTorch · TensorFlow
-Jupyter · Google Colab
+NumPy · pandas · scikit-learn
+PyTorch · TensorFlow · Jupyter · Colab
 
 </td>
 
@@ -84,9 +78,7 @@ Jupyter · Google Colab
 
 <tr>
 
-<!-- DATABASES -->
-
-<td width="25%" height="240" align="center" valign="middle">
+<td width="33.33%" height="220" align="center" valign="middle">
 
 ### Databases & Infrastructure
 
@@ -99,9 +91,7 @@ REST APIs · Git · GitHub
 
 </td>
 
-<!-- DEVELOPMENT ENVIRONMENT -->
-
-<td width="25%" height="240" align="center" valign="middle">
+<td width="33.33%" height="220" align="center" valign="middle">
 
 ### Development Environment
 
@@ -114,15 +104,11 @@ Visual Studio · Linux
 
 </td>
 
-<!-- EMPTY HALF UNDER DATA SCIENCE -->
-
-<td width="50%" height="120">
+<td width="33.33%" height="220">
 </td>
 
 </tr>
 </table>
-
-
 
 ----
 
