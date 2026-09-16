@@ -33,14 +33,16 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 ---
 ## 🛠️ Tech Stack
 
-<table width="100%">
+<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
 <tr>
 
-<td width="22%" align="center" valign="top">
+<!-- LANGUAGES -->
+
+<td width="25%" height="240" align="center" valign="middle">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,go,cs,r&perline=4" height="45" alt="Python, Go, C#, R" />
+<img src="https://skillicons.dev/icons?i=python,go,cs,r&perline=4" height="45" alt="Python, Go, C#, R">
 
 <br><br>
 
@@ -48,11 +50,13 @@ Python · Go · C# · R
 
 </td>
 
-<td width="22%" align="center" valign="top">
+<!-- BACKEND -->
+
+<td width="25%" height="240" align="center" valign="middle">
 
 ### Backend & Web
 
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,go,dotnet&perline=5" height="45" alt="Django, Flask, FastAPI, Go, .NET" />
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,go,dotnet&perline=5" height="45" alt="Django, Flask, FastAPI, Go, .NET">
 
 <br><br>
 
@@ -61,30 +65,18 @@ Go · Chi · Gin · ASP.NET Core
 
 </td>
 
-<td width="56%" rowspan="2" align="center" valign="middle">
+<!-- DATA SCIENCE -->
+
+<td width="50%" height="120" align="center" valign="middle">
 
 ### Data Science & AI/ML
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,jupyter&perline=4" height="60" alt="Python, PyTorch, TensorFlow, Jupyter" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,jupyter&perline=4" height="45" alt="Python, PyTorch, TensorFlow, Jupyter">
 
 <br><br>
 
-**NumPy** · **pandas** · **scikit-learn**
-
-<br><br>
-
-**PyTorch** · **TensorFlow**
-
-<br><br>
-
-**Jupyter** · **Google Colab**
-
-<br><br>
-
-Data Analysis · Machine Learning
-Predictive Modelling · AI Applications
+NumPy · pandas · scikit-learn · PyTorch · TensorFlow
+Jupyter · Google Colab
 
 </td>
 
@@ -92,11 +84,13 @@ Predictive Modelling · AI Applications
 
 <tr>
 
-<td width="22%" align="center" valign="top">
+<!-- DATABASES -->
+
+<td width="25%" height="240" align="center" valign="middle">
 
 ### Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,github&perline=4" height="45" alt="PostgreSQL, Docker, Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github&perline=4" height="45" alt="PostgreSQL, Docker, Git, GitHub">
 
 <br><br>
 
@@ -105,11 +99,13 @@ REST APIs · Git · GitHub
 
 </td>
 
-<td width="22%" align="center" valign="top">
+<!-- DEVELOPMENT ENVIRONMENT -->
+
+<td width="25%" height="240" align="center" valign="middle">
 
 ### Development Environment
 
-<img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio,linux&perline=4" height="45" alt="Neovim, VS Code, Visual Studio, Linux" />
+<img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio,linux&perline=4" height="45" alt="Neovim, VS Code, Visual Studio, Linux">
 
 <br><br>
 
@@ -118,8 +114,14 @@ Visual Studio · Linux
 
 </td>
 
+<!-- EMPTY HALF UNDER DATA SCIENCE -->
+
+<td width="50%" height="120">
+</td>
+
 </tr>
 </table>
+
 
 
 ----
