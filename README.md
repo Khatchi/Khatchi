@@ -36,7 +36,7 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 <table width="100%">
 <tr>
 
-<td width="33.33%" align="center" valign="top">
+<td width="22%" align="center" valign="top">
 
 ### Languages
 
@@ -48,7 +48,7 @@ Python · Go · C# · R
 
 </td>
 
-<td width="33.33%" align="center" valign="top">
+<td width="22%" align="center" valign="top">
 
 ### Backend & Web
 
@@ -61,16 +61,30 @@ Go · Chi · Gin · ASP.NET Core
 
 </td>
 
-<td width="33.33%" align="center" valign="top">
+<td width="56%" rowspan="2" align="center" valign="middle">
 
 ### Data Science & AI/ML
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,jupyter&perline=3" height="45" alt="PyTorch, TensorFlow, Jupyter" />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,jupyter&perline=4" height="60" alt="Python, PyTorch, TensorFlow, Jupyter" />
 
 <br><br>
 
-NumPy · pandas · scikit-learn
-PyTorch · TensorFlow · Jupyter
+**NumPy** · **pandas** · **scikit-learn**
+
+<br><br>
+
+**PyTorch** · **TensorFlow**
+
+<br><br>
+
+**Jupyter** · **Google Colab**
+
+<br><br>
+
+Data Analysis · Machine Learning
+Predictive Modelling · AI Applications
 
 </td>
 
@@ -78,7 +92,7 @@ PyTorch · TensorFlow · Jupyter
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="22%" align="center" valign="top">
 
 ### Databases & Infrastructure
 
@@ -91,7 +105,7 @@ REST APIs · Git · GitHub
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="22%" align="center" valign="top">
 
 ### Development Environment
 
@@ -106,6 +120,7 @@ Visual Studio · Linux
 
 </tr>
 </table>
+
 
 ----
 
