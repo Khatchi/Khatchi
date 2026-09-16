@@ -114,63 +114,59 @@ Visual Studio · Linux
 
 ## 🚀 What I Build
 
-<table width="100%" style="table-layout: fixed;">
-<tr>
-
-<td width="50%" height="240" align="left" valign="middle">
+<table width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top">
 
 ### 🔌 Backend Systems
 
-- RESTful APIs
-- Web services
-- Database-driven applications
-- Authentication & authorization
-- Healthcare APIs
+* RESTful APIs
+* Web services
+* Database-driven applications
+* Authentication & authorization
+* Healthcare APIs
 
-</td>
-
-<td width="50%" height="240" align="left" valign="middle">
+    </td>
+    <td width="50%" align="left" valign="top">
 
 ### 🤖 Data & AI
 
-- Data analysis
-- Predictive modelling
-- Machine learning
-- AI applications
-- Decision-support systems
+* Data analysis
+* Predictive modelling
+* Machine learning
+* AI applications
+* Decision-support systems
 
-</td>
+    </td>
+  </tr>
 
-</tr>
-
-<tr>
-
-<td width="50%" height="240" align="left" valign="middle">
+  <tr>
+    <td width="50%" align="left" valign="top">
 
 ### 🏥 Healthcare Technology
 
-- Health records
-- Pharmacy systems
-- Healthcare workflows
-- Adverse drug reaction reporting
-- Healthcare data systems
+* Health records
+* Pharmacy systems
+* Healthcare workflows
+* Adverse drug reaction reporting
+* Healthcare data systems
 
-</td>
-
-<td width="50%" height="240" align="left" valign="middle">
+    </td>
+    <td width="50%" align="left" valign="top">
 
 ### 🧬 Applied Research
 
-- Computational drug discovery
-- Drug-response modelling
-- Healthcare analytics
-- Data-driven healthcare
-- Domain-informed ML applications
+* Computational drug discovery
+* Drug-response modelling
+* Healthcare analytics
+* Data-driven healthcare
+* Domain-informed ML applications
 
-</td>
+    </td>
+  </tr>
 
-</tr>
 </table>
+
 
 ---
 
