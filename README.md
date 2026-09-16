@@ -7,30 +7,27 @@
 Building **backend systems, data-driven applications, and machine learning solutions**
 with a particular interest in **healthcare and health-tech**.
 
-<p>
-  <a href="https://github.com/Khatchi">
-    <img src="https://img.shields.io/github/followers/Khatchi?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" />
-  </a>
-  <a href="https://www.linkedin.com/in/solomonngwu">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/Khatchi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 👨🏾‍💻 About Me
-
-</div>
 
 I'm a **backend engineer, data scientist, and AI/ML engineer** working primarily with **Python and Go**, with experience building applications with **C#/.NET** and working with data using **R**.
 
-<div align="center">
-
 My interests sit at the intersection of:
+
+<div align="center">
 
 **Backend Engineering** · **Data Science** · **Machine Learning & AI**
 **Healthcare Technology** · **Data-Driven Systems**
@@ -41,19 +38,23 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 
 ---
 
-<div align="center">
-
 ## 🛠️ Tech Stack
 
 ### Languages
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,go,cs,r" />
+
+</div>
 
 ### Backend & Web
 
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,dotnet" />
+<div align="center">
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,dotnet" />
+
+<br><br>
 
 **Python:** Django · Flask · FastAPI
 
@@ -61,76 +62,82 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 
 **.NET:** ASP.NET Core · Entity Framework
 
+</div>
+
 ### Data Science & AI/ML
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-<br>
+<br><br>
 
 NumPy · pandas · scikit-learn · Jupyter · Google Colab
 
+</div>
+
 ### Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github" />
+
+<br><br>
+
+PostgreSQL · Docker · REST APIs · Git
+
+</div>
 
 ### Development Environment
 
-<img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio,linux,wsl" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio,linux" />
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 🚀 What I Build
 
-</div>
-
 <div align="center">
 
-Backend APIs and web services
-Database-driven applications
-Healthcare and health-tech systems
-Data analysis and predictive models
-Machine learning and AI applications
-Healthcare data and decision-support systems
-Software that connects domain knowledge with technology
+|                                 |                                           |
+| ------------------------------- | ----------------------------------------- |
+| 🔌 **Backend APIs**             | 🗄️ **Database-driven applications**      |
+| 🏥 **Healthcare & Health-tech** | 📊 **Data analysis & predictive models**  |
+| 🤖 **Machine learning & AI**    | 🧬 **Healthcare data & decision support** |
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 🔨 Currently Building
 
-### 🏥 MiraMed
-
-</div>
-
 <div align="center">
 
+### 🏥 MiraMed
+
 An online pharmacy marketplace with **adverse drug reaction reporting**,
-built with Go and PostgreSQL.
+built with **Go and PostgreSQL**.
 
 **Go** · **Chi** · **PostgreSQL** · **Docker**
 
-> 🔒 Private repository — currently under development.
+<br>
+
+🔒 *Private repository — currently under development.*
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 📌 Featured Projects
 
-</div>
+<div align="center">
 
 > Public projects will be added here as they are ready to showcase.
 
-<div align="center">
+</div>
 
 ### Project One
 
@@ -138,11 +145,15 @@ Short description of the project and the problem it solves.
 
 **Python** · **Django** · **PostgreSQL**
 
+<div align="center">
+
 <a href="https://github.com/Khatchi/PROJECT_ONE">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
+</div>
+
+---
 
 ### Project Two
 
@@ -150,17 +161,23 @@ Short description of the project and the problem it solves.
 
 **Go** · **Chi** · **PostgreSQL** · **Docker**
 
+<div align="center">
+
 <a href="https://github.com/Khatchi/PROJECT_TWO">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
+</div>
+
+---
 
 ### Project Three
 
 Short description of the project and the problem it solves.
 
 **Python** · **FastAPI** · **Machine Learning**
+
+<div align="center">
 
 <a href="https://github.com/Khatchi/PROJECT_THREE">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -170,11 +187,7 @@ Short description of the project and the problem it solves.
 
 ---
 
-<div align="center">
-
 ## 🧠 Current Focus
-
-</div>
 
 <table align="center">
 <tr>
@@ -183,11 +196,8 @@ Short description of the project and the problem it solves.
 ### Backend Engineering
 
 APIs & Web Services
-
 Go & Python
-
 PostgreSQL
-
 Distributed Systems
 
 </td>
@@ -197,11 +207,8 @@ Distributed Systems
 ### Data & AI
 
 Data Analysis
-
 Machine Learning
-
 Predictive Modeling
-
 AI Applications
 
 </td>
@@ -211,11 +218,8 @@ AI Applications
 ### Healthcare Technology
 
 Health Records
-
 Healthcare APIs
-
 Computational Drug Discovery
-
 Data-Driven Healthcare
 
 </td>
@@ -296,8 +300,8 @@ alt="GitHub contribution snake"
 <a href="https://github.com/Khatchi">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://linkedin.com/in/solomonngwu">
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
