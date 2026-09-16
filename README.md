@@ -25,8 +25,6 @@ with a particular interest in **healthcare and health-tech**.
 
 I'm a **backend engineer, data scientist, and AI/ML engineer** working primarily with **Python and Go**, with experience building applications with **C#/.NET** and working with data using **R**.
 
-My interests sit at the intersection of:
-
 <div align="center">
 
 **Backend Engineering** · **Data Science** · **Machine Learning & AI**
@@ -38,23 +36,15 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 ### Languages
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,go,cs,r" />
-
-</div>
+**Python** · **Go** · **C#** · **R**
 
 ### Backend & Web
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,dotnet" />
-
-<br><br>
 
 **Python:** Django · Flask · FastAPI
 
@@ -62,37 +52,19 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 
 **.NET:** ASP.NET Core · Entity Framework
 
-</div>
-
 ### Data Science & AI/ML
 
-<div align="center">
+**NumPy** · **pandas** · **scikit-learn** · **PyTorch** · **TensorFlow**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-<br><br>
-
-NumPy · pandas · scikit-learn · Jupyter · Google Colab
-
-</div>
+**Jupyter** · **Google Colab**
 
 ### Databases & Infrastructure
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,github" />
-
-<br><br>
-
-PostgreSQL · Docker · REST APIs · Git
-
-</div>
+**PostgreSQL** · **Docker** · **REST APIs** · **Git**
 
 ### Development Environment
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio,linux" />
+**Neovim** · **VS Code** · **Visual Studio** · **Linux**
 
 </div>
 
@@ -102,19 +74,17 @@ PostgreSQL · Docker · REST APIs · Git
 
 <div align="center">
 
-|                                 |                                           |
-| ------------------------------- | ----------------------------------------- |
-| 🔌 **Backend APIs**             | 🗄️ **Database-driven applications**      |
-| 🏥 **Healthcare & Health-tech** | 📊 **Data analysis & predictive models**  |
-| 🤖 **Machine learning & AI**    | 🧬 **Healthcare data & decision support** |
+**🔌 Backend APIs** · **🗄️ Database-driven Applications**
+**🏥 Healthcare & Health-tech** · **📊 Data Analysis & Predictive Models**
+**🤖 Machine Learning & AI** · **🧬 Healthcare Data & Decision Support**
 
 </div>
 
 ---
 
-## 🔨 Currently Building
-
 <div align="center">
+
+## 🔨 Currently Building
 
 ### 🏥 MiraMed
 
@@ -131,63 +101,11 @@ built with **Go and PostgreSQL**.
 
 ---
 
-## 📌 Featured Projects
-
 <div align="center">
-
-> Public projects will be added here as they are ready to showcase.
-
-</div>
-
-### Project One
-
-Short description of the project and the problem it solves.
-
-**Python** · **Django** · **PostgreSQL**
-
-<div align="center">
-
-<a href="https://github.com/Khatchi/PROJECT_ONE">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-### Project Two
-
-Short description of the project and the problem it solves.
-
-**Go** · **Chi** · **PostgreSQL** · **Docker**
-
-<div align="center">
-
-<a href="https://github.com/Khatchi/PROJECT_TWO">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-### Project Three
-
-Short description of the project and the problem it solves.
-
-**Python** · **FastAPI** · **Machine Learning**
-
-<div align="center">
-
-<a href="https://github.com/Khatchi/PROJECT_THREE">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
 
 ## 🧠 Current Focus
+
+</div>
 
 <table align="center">
 <tr>
