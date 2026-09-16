@@ -34,8 +34,9 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 
 ## 🛠️ Tech Stack
 
-<table>
+<table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
 ### Languages
@@ -44,34 +45,22 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 
 <img src="https://skillicons.dev/icons?i=python,go,cs,r" alt="Python, Go, C#, R" />
 
-<br><br>
+<br>
 
 **Python** · **Go** · **C#** · **R**
 
 </div>
 
-</td>
-
-<td width="50%" valign="top">
+<br>
 
 ### Backend & Web
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,dotnet" alt="Django, Flask, FastAPI, .NET" />
-
-<br><br>
-
-**Django** · **Flask** · **FastAPI**  
-**ASP.NET Core** · **Entity Framework**  
-**Go Standard Library** · **Chi** · **Gin**
-
-</div>
+**Python:** Django · Flask · FastAPI
+**Go:** Standard Library · Chi · Gin
+**.NET:** ASP.NET Core · Entity Framework
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### Data Science & AI/ML
@@ -80,47 +69,43 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch, TensorFlow" />
 
-<br><br>
+<br>
 
-**NumPy** · **pandas** · **scikit-learn**  
-**PyTorch** · **TensorFlow**  
+**NumPy** · **pandas** · **scikit-learn**
+**PyTorch** · **TensorFlow**
 **Jupyter** · **Google Colab**
 
 </div>
 
-</td>
-
-<td width="50%" valign="top">
+<br>
 
 ### Databases & Infrastructure
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,github" alt="PostgreSQL, Docker, Git, GitHub" />
-
-<br><br>
-
-**PostgreSQL** · **Docker**  
-**REST APIs** · **Git** · **GitHub**
-
-</div>
+**PostgreSQL** · **Docker** · **REST APIs**
+**Git** · **GitHub**
 
 </td>
+
 </tr>
 
 <tr>
+
 <td colspan="2" align="center">
 
 ### Development Environment
 
 <img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio,linux" alt="Neovim, VS Code, Visual Studio, Linux" />
 
+<br>
+
+**Neovim** · **VS Code** · **Visual Studio** · **Linux**
+
 </td>
+
 </tr>
 
 </table>
 
----
 
 ## 🚀 What I Build
 
