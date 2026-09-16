@@ -36,60 +36,41 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="33.33%" align="center" valign="top">
 
 ### Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,cs,r&perline=4" alt="Python, Go, C#, R" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,go,cs,r&perline=4" height="45" alt="Python, Go, C#, R" />
 
-<p align="center">
-  <b>Python</b> · <b>Go</b> · <b>C#</b> · <b>R</b>
-</p>
+<br><br>
 
-<br>
-
-### Backend & Web
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,go,dotnet&perline=5" alt="Django, Flask, FastAPI, Go, .NET" />
-</p>
-
-<p align="center">
-  <b>Django</b> · <b>Flask</b> · <b>FastAPI</b><br>
-  <b>Go Standard Library</b> · <b>Chi</b> · <b>Gin</b><br>
-  <b>ASP.NET Core</b> · <b>Entity Framework</b>
-</p>
+Python · Go · C# · R
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33.33%" align="center" valign="top">
+
+### Backend & Web
+
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,go,dotnet&perline=5" height="45" alt="Django, Flask, FastAPI, Go, .NET" />
+
+<br><br>
+
+Django · Flask · FastAPI
+Go · Chi · Gin · ASP.NET Core
+
+</td>
+
+<td width="33.33%" align="center" valign="top">
 
 ### Data Science & AI/ML
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,jupyter&perline=4" alt="Python, PyTorch, TensorFlow, Jupyter" />
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,jupyter&perline=3" height="45" alt="PyTorch, TensorFlow, Jupyter" />
 
-<p align="center">
-  <b>NumPy</b> · <b>pandas</b> · <b>scikit-learn</b><br>
-  <b>PyTorch</b> · <b>TensorFlow</b><br>
-  <b>Jupyter</b> · <b>Google Colab</b>
-</p>
+<br><br>
 
-<br>
-
-### Databases & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,postman&perline=5" alt="PostgreSQL, Docker, Git, GitHub, Postman" />
-</p>
-
-<p align="center">
-  <b>PostgreSQL</b> · <b>Docker</b> · <b>REST APIs</b><br>
-  <b>Git</b> · <b>GitHub</b> · <b>Postman</b>
-</p>
+NumPy · pandas · scikit-learn
+PyTorch · TensorFlow · Jupyter
 
 </td>
 
@@ -97,23 +78,35 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 
 <tr>
 
-<td colspan="2" align="center">
+<td width="50%" align="center" valign="top">
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github&perline=4" height="45" alt="PostgreSQL, Docker, Git, GitHub" />
+
+<br><br>
+
+PostgreSQL · Docker
+REST APIs · Git · GitHub
+
+</td>
+
+<td width="50%" align="center" valign="top">
 
 ### Development Environment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio,linux&perline=4" alt="Neovim, VS Code, Visual Studio, Linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio,linux&perline=4" height="45" alt="Neovim, VS Code, Visual Studio, Linux" />
 
-<p>
-  <b>Neovim</b> · <b>VS Code</b> · <b>Visual Studio</b> · <b>Linux</b>
-</p>
+<br><br>
+
+Neovim · VS Code
+Visual Studio · Linux
 
 </td>
 
 </tr>
-
 </table>
+
 ----
 
 ## 🚀 What I Build
