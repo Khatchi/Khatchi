@@ -31,7 +31,6 @@ My interests span **backend engineering, data science, machine learning, AI, and
 I enjoy turning **real-world problems, domain knowledge, and data into practical software solutions**.
 
 ---
-
 ## 🛠️ Tech Stack
 
 <table width="100%">
@@ -41,23 +40,27 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 
 ### Languages
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,cs,r&perline=4" alt="Python, Go, C#, R" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,go,cs,r" alt="Python, Go, C#, R" />
-
-<br>
-
-**Python** · **Go** · **C#** · **R**
-
-</div>
+<p align="center">
+  <b>Python</b> · <b>Go</b> · <b>C#</b> · <b>R</b>
+</p>
 
 <br>
 
 ### Backend & Web
 
-**Python:** Django · Flask · FastAPI
-**Go:** Standard Library · Chi · Gin
-**.NET:** ASP.NET Core · Entity Framework
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,go,dotnet&perline=5" alt="Django, Flask, FastAPI, Go, .NET" />
+</p>
+
+<p align="center">
+  <b>Django</b> · <b>Flask</b> · <b>FastAPI</b><br>
+  <b>Go Standard Library</b> · <b>Chi</b> · <b>Gin</b><br>
+  <b>ASP.NET Core</b> · <b>Entity Framework</b>
+</p>
 
 </td>
 
@@ -65,24 +68,28 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 
 ### Data Science & AI/ML
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,jupyter&perline=4" alt="Python, PyTorch, TensorFlow, Jupyter" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch, TensorFlow" />
-
-<br>
-
-**NumPy** · **pandas** · **scikit-learn**
-**PyTorch** · **TensorFlow**
-**Jupyter** · **Google Colab**
-
-</div>
+<p align="center">
+  <b>NumPy</b> · <b>pandas</b> · <b>scikit-learn</b><br>
+  <b>PyTorch</b> · <b>TensorFlow</b><br>
+  <b>Jupyter</b> · <b>Google Colab</b>
+</p>
 
 <br>
 
 ### Databases & Infrastructure
 
-**PostgreSQL** · **Docker** · **REST APIs**
-**Git** · **GitHub**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,postman&perline=5" alt="PostgreSQL, Docker, Git, GitHub, Postman" />
+</p>
+
+<p align="center">
+  <b>PostgreSQL</b> · <b>Docker</b> · <b>REST APIs</b><br>
+  <b>Git</b> · <b>GitHub</b> · <b>Postman</b>
+</p>
 
 </td>
 
@@ -94,18 +101,20 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 
 ### Development Environment
 
-<img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio,linux" alt="Neovim, VS Code, Visual Studio, Linux" />
+<p>
+  <img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio,linux&perline=4" alt="Neovim, VS Code, Visual Studio, Linux" />
+</p>
 
-<br>
-
-**Neovim** · **VS Code** · **Visual Studio** · **Linux**
+<p>
+  <b>Neovim</b> · <b>VS Code</b> · <b>Visual Studio</b> · <b>Linux</b>
+</p>
 
 </td>
 
 </tr>
 
 </table>
-
+----
 
 ## 🚀 What I Build
 
