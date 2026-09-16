@@ -4,17 +4,18 @@
 
 ### Backend Engineer · Data Scientist · AI/ML Engineer
 
-Building **backend systems, data-driven applications, and machine learning solutions**
-with a particular interest in **healthcare and health-tech**.
+**Backend systems · Data · AI/ML · Healthcare Technology**
+
+Building practical software at the intersection of **engineering, data, and healthcare**.
 
 <br>
 
 <a href="https://github.com/Khatchi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
@@ -25,46 +26,62 @@ with a particular interest in **healthcare and health-tech**.
 
 I'm a **backend engineer, data scientist, and AI/ML engineer** working primarily with **Python and Go**, with experience building applications with **C#/.NET** and working with data using **R**.
 
-<div align="center">
-
-**Backend Engineering** · **Data Science** · **Machine Learning & AI**
-**Healthcare Technology** · **Data-Driven Systems**
-
-</div>
+My interests span **backend engineering, data science, machine learning, AI, and healthcare technology**.
 
 I enjoy turning **real-world problems, domain knowledge, and data into practical software solutions**.
 
 ---
 
-<div align="center">
-
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 
+<img src="https://skillicons.dev/icons?i=python,go,cs,r" alt="Python, Go, C#, R" />
+
+<br>
+
 **Python** · **Go** · **C#** · **R**
+
+<br><br>
 
 ### Backend & Web
 
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,dotnet" alt="Django, Flask, FastAPI, .NET" />
+
+<br>
+
 **Python:** Django · Flask · FastAPI
-
 **Go:** Standard Library · Chi · Gin
-
 **.NET:** ASP.NET Core · Entity Framework
+
+<br><br>
 
 ### Data Science & AI/ML
 
-**NumPy** · **pandas** · **scikit-learn** · **PyTorch** · **TensorFlow**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch, TensorFlow" />
 
+<br>
+
+**NumPy** · **pandas** · **scikit-learn** · **PyTorch** · **TensorFlow**
 **Jupyter** · **Google Colab**
+
+<br><br>
 
 ### Databases & Infrastructure
 
-**PostgreSQL** · **Docker** · **REST APIs** · **Git**
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github" alt="PostgreSQL, Docker, Git, GitHub" />
+
+<br>
+
+**PostgreSQL** · **Docker** · **REST APIs** · **Git** · **GitHub**
+
+<br><br>
 
 ### Development Environment
 
-**Neovim** · **VS Code** · **Visual Studio** · **Linux**
+<img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio,linux" alt="Neovim, VS Code, Visual Studio, Linux" />
 
 </div>
 
@@ -72,51 +89,99 @@ I enjoy turning **real-world problems, domain knowledge, and data into practical
 
 ## 🚀 What I Build
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🔌 Backend APIs** · **🗄️ Database-driven Applications**
-**🏥 Healthcare & Health-tech** · **📊 Data Analysis & Predictive Models**
-**🤖 Machine Learning & AI** · **🧬 Healthcare Data & Decision Support**
+### 🔌 Backend Systems
 
-</div>
+* RESTful APIs
+* Web services
+* Database-driven applications
+* Authentication & authorization
+* Healthcare APIs
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Data & AI
+
+* Data analysis
+* Predictive modelling
+* Machine learning
+* AI applications
+* Decision-support systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Healthcare Technology
+
+* Health records
+* Pharmacy systems
+* Healthcare workflows
+* Adverse drug reaction reporting
+* Healthcare data systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧬 Applied Research
+
+* Computational drug discovery
+* Drug-response modelling
+* Healthcare analytics
+* Data-driven healthcare
+* Domain-informed ML applications
+
+</td>
+</tr>
+</table>
 
 ---
-
-<div align="center">
 
 ## 🔨 Currently Building
 
+<div align="center">
+
 ### 🏥 MiraMed
 
-An online pharmacy marketplace with **adverse drug reaction reporting**,
-built with **Go and PostgreSQL**.
-
-**Go** · **Chi** · **PostgreSQL** · **Docker**
+**An online pharmacy marketplace with adverse drug reaction reporting,
+built with Go and PostgreSQL.**
 
 <br>
 
-🔒 *Private repository — currently under development.*
+`Go` · `Chi` · `PostgreSQL` · `Docker`
+
+<br><br>
+
+🔒 **Private repository · Currently under development**
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 🧠 Current Focus
-
-</div>
 
 <table align="center">
 <tr>
+
 <td align="center" width="33%">
 
 ### Backend Engineering
 
-APIs & Web Services
 Go & Python
+
+APIs & Web Services
+
 PostgreSQL
-Distributed Systems
+
+System Design
 
 </td>
 
@@ -125,8 +190,11 @@ Distributed Systems
 ### Data & AI
 
 Data Analysis
+
 Machine Learning
-Predictive Modeling
+
+Predictive Modelling
+
 AI Applications
 
 </td>
@@ -135,70 +203,67 @@ AI Applications
 
 ### Healthcare Technology
 
-Health Records
 Healthcare APIs
+
+Health Records
+
 Computational Drug Discovery
+
 Data-Driven Healthcare
 
 </td>
+
 </tr>
 </table>
 
 ---
 
+## 📊 GitHub Activity
+
 <div align="center">
 
-## 📊 GitHub Stats
-
-<br>
-
 <img
-src="https://github-readme-stats.vercel.app/api?username=Khatchi&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+src="https://github-readme-stats.vercel.app/api?username=Khatchi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
 height="170"
+alt="GitHub Stats"
 />
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khatchi&layout=compact&theme=github_dark&hide_border=true"
 height="170"
+alt="Top Languages"
 />
 
 </div>
 
----
+<br>
 
 <div align="center">
-
-## 🔥 Contribution Streak
-
-<br>
 
 <img
 src="https://streak-stats.demolab.com?user=Khatchi&theme=github-dark-blue&hide_border=true"
+alt="GitHub Contribution Streak"
 />
 
 </div>
 
----
+<br>
 
 <div align="center">
-
-## 📈 Contribution Activity
-
-<br>
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=Khatchi&theme=github-compact&hide_border=true&area=true"
+width="95%"
+alt="GitHub Contribution Activity"
 />
 
 </div>
 
 ---
 
+## 🐍 Contributions
+
 <div align="center">
-
-## 🐍 Contribution Snake
-
-<br>
 
 <img
 src="https://raw.githubusercontent.com/Khatchi/Khatchi/output/github-contribution-grid-snake-dark.svg"
@@ -216,11 +281,11 @@ alt="GitHub contribution snake"
 <br>
 
 <a href="https://github.com/Khatchi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <br><br>
